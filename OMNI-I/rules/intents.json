@@ -1,0 +1,7 @@
+{
+    "identity_targets": [
+        {"scheme": "oktaverify", "label": "Okta Hijack"},
+        {"scheme": "ms-authenticator", "label": "Microsoft Auth Hijack"},
+        {"scheme": "openid", "label": "OpenID Session Hijack"}
+    ]
+}

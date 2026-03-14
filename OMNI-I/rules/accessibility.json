@@ -1,0 +1,6 @@
+{
+    "dangerous_permissions": [
+        "canPerformGestures",
+        "canRetrieveWindowContent"
+    ]
+}
